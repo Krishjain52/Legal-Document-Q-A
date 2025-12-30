@@ -6,3 +6,4 @@ google-generativeai
 python-multipart
 langchain
 langchain.text_splitters
+PyMuPDF
