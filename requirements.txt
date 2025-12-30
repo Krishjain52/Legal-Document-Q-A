@@ -2,7 +2,7 @@ fastapi
 uvicorn
 pdfplumber
 chromadb
-google-generativeai
+google-genai
 python-multipart
 langchain
 langchain.text_splitters
