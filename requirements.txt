@@ -7,3 +7,5 @@ python-multipart
 langchain
 langchain.text_splitters
 PyMuPDF
+python-dotenv
+
